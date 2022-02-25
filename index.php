@@ -9,7 +9,7 @@ $Movie[0]->description= "lorem";
 
 $Movie2 = [
     new movies("title2", "description2")
-];
+]; 
 $Movie2[0]->title= "ted 2 --"; 
 $Movie2[0]->description= "Ipsum";
 
